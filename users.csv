@@ -1,0 +1,501 @@
+user_id,join_date,region,account_type,risk_score
+1,2023-08-30,Salazarview,Business,0.11
+2,2023-08-10,Curtisburgh,Business,0.28
+3,2023-03-18,Walkerstad,Regular,0.14
+4,2023-10-23,Kellybury,Regular,0.68
+5,2023-01-04,Holmesport,Business,0.09
+6,2023-07-17,East Anneside,Premium,0.03
+7,2022-11-28,North Andreburgh,Regular,0.22
+8,2023-05-01,Carlfort,Business,0.6
+9,2022-08-12,Port Amanda,Business,0.2
+10,2023-01-16,North Darrylfort,Business,0.7
+11,2023-05-02,South Bradley,Premium,0.22
+12,2023-01-04,Lake Stefanie,Business,0.28
+13,2022-10-11,Port Corey,Regular,0.76
+14,2022-09-27,Patricialand,Regular,0.7
+15,2023-12-05,Hallhaven,Premium,0.28
+16,2022-08-07,Stanleybury,Regular,0.96
+17,2023-04-11,Ashleymouth,Premium,0.1
+18,2023-09-14,Joneschester,Premium,0.1
+19,2024-02-09,Howardburgh,Premium,0.6
+20,2022-07-20,Josephtown,Regular,0.73
+21,2024-05-20,Lake Charles,Business,0.12
+22,2023-06-27,West Bryantown,Premium,0.08
+23,2022-11-04,North Troy,Premium,0.83
+24,2023-09-23,Robbinsstad,Business,0.89
+25,2024-04-13,Port Michaelfurt,Premium,0.58
+26,2024-02-09,East Dalebury,Business,0.07
+27,2022-12-15,Ashleyville,Business,0.23
+28,2022-10-04,South Melissa,Premium,0.99
+29,2023-11-17,Port Jamesland,Regular,0.87
+30,2023-05-24,East Robertbury,Premium,0.28
+31,2023-10-25,Smithbury,Business,0.83
+32,2022-10-14,East Dennis,Regular,0.37
+33,2023-02-09,Lake Jeff,Regular,0.67
+34,2022-08-09,Tylerside,Business,0.94
+35,2023-11-02,New Jeffrey,Business,0.07
+36,2023-02-21,Ericbury,Business,0.17
+37,2024-01-14,North Debrafurt,Business,0.24
+38,2023-11-23,West Crystalview,Premium,0.38
+39,2023-01-26,New Christine,Business,0.69
+40,2023-04-07,Kevinview,Regular,0.68
+41,2024-02-28,Montgomeryport,Regular,0.23
+42,2023-01-16,New Carlaburgh,Regular,0.81
+43,2024-02-29,East Joshua,Premium,0.27
+44,2023-03-24,Blakeberg,Regular,0.91
+45,2022-09-30,Christinafort,Business,0.88
+46,2022-11-15,Christopherbury,Premium,0.21
+47,2024-02-07,East Travis,Premium,0.4
+48,2022-08-28,East Zacharymouth,Business,0.46
+49,2023-06-29,Vazquezfort,Premium,0.14
+50,2023-03-22,Tammyhaven,Business,0.56
+51,2023-03-16,Jenniferborough,Premium,0.75
+52,2022-06-07,Port Annaport,Premium,0.9
+53,2023-09-18,Josephland,Premium,0.36
+54,2023-12-17,Ryanland,Regular,0.51
+55,2023-04-21,Lake James,Regular,0.76
+56,2023-08-14,West Matthew,Regular,0.15
+57,2024-03-01,West Andrewborough,Regular,0.79
+58,2023-07-28,Schroederstad,Premium,0.6
+59,2022-12-06,Gonzalesfort,Premium,0.38
+60,2022-06-28,Charleston,Premium,0.53
+61,2022-08-25,West Roberthaven,Business,0.86
+62,2023-11-16,East Kimberly,Regular,0.68
+63,2023-03-05,Angelachester,Regular,0.68
+64,2023-09-09,Davisstad,Business,0.75
+65,2023-03-22,Victormouth,Business,0.34
+66,2022-06-09,New Alexandriabury,Premium,0.43
+67,2024-03-01,Terrellshire,Premium,0.0
+68,2023-04-19,Morganhaven,Business,0.88
+69,2024-02-25,South Kenneth,Premium,0.97
+70,2023-02-19,Salazarfurt,Regular,0.51
+71,2023-11-14,Robinville,Regular,0.87
+72,2023-04-04,Rodriguezport,Premium,0.84
+73,2022-07-09,Muellerview,Business,0.61
+74,2023-10-08,Port Hannahstad,Regular,0.37
+75,2023-11-27,East Karen,Regular,0.54
+76,2023-05-30,North Curtistown,Business,0.92
+77,2022-07-01,Lake Antonioshire,Business,0.32
+78,2022-06-25,Port Stephanie,Regular,0.11
+79,2023-05-01,East Danielville,Premium,0.88
+80,2024-05-29,North Bonnieburgh,Premium,0.24
+81,2022-12-25,East Nicole,Regular,0.88
+82,2022-12-09,Jessemouth,Regular,0.09
+83,2023-11-19,South Kaitlyn,Premium,0.82
+84,2022-07-07,North Andrewtown,Business,0.77
+85,2023-03-07,Joshuachester,Regular,0.66
+86,2022-10-05,South Tammymouth,Business,0.17
+87,2022-10-09,Williamshaven,Business,0.87
+88,2022-12-16,Williamshaven,Premium,0.96
+89,2023-06-11,South Angela,Business,0.76
+90,2024-05-07,Williamhaven,Business,0.2
+91,2023-06-05,Reginachester,Premium,0.4
+92,2022-12-02,South Victoria,Business,0.65
+93,2023-07-14,West Tanyaberg,Premium,0.9
+94,2022-12-29,Gibsonbury,Premium,0.12
+95,2022-07-24,Davidfort,Regular,0.06
+96,2022-11-21,Port Gloria,Regular,0.59
+97,2022-08-09,Derekton,Regular,0.59
+98,2024-03-30,Port Sarah,Regular,0.07
+99,2024-03-21,West Raymondberg,Business,0.06
+100,2022-06-02,West Jason,Regular,0.91
+101,2022-10-20,Port Natalieville,Premium,0.07
+102,2022-08-30,Sandraside,Regular,0.28
+103,2022-09-07,Baldwinfurt,Premium,0.21
+104,2023-12-02,South Timothy,Regular,0.72
+105,2024-01-22,Rhodesborough,Business,0.58
+106,2022-10-18,Davidbury,Regular,0.78
+107,2024-05-10,Jeffreytown,Premium,0.19
+108,2023-12-03,Marissamouth,Regular,0.66
+109,2023-07-13,Pittmanshire,Premium,0.42
+110,2023-07-09,New Deniseview,Premium,0.86
+111,2022-12-20,Natalieshire,Regular,0.67
+112,2022-10-13,Leslieton,Business,0.1
+113,2022-10-08,Port Jacqueline,Premium,0.73
+114,2022-07-17,Valentineburgh,Regular,0.25
+115,2023-12-11,Port Morgan,Regular,0.54
+116,2023-08-26,North Christine,Regular,0.42
+117,2023-04-01,Lake Rebecca,Premium,0.46
+118,2022-07-16,Lake Lindsey,Regular,0.44
+119,2022-11-02,Port Karafort,Business,0.1
+120,2022-10-18,Moraleston,Business,1.0
+121,2023-12-22,Port Suzanne,Regular,0.97
+122,2023-03-09,Port Justin,Regular,0.17
+123,2023-05-03,Dennismouth,Premium,0.48
+124,2022-06-29,Vargasburgh,Premium,0.9
+125,2022-10-02,South Corey,Regular,0.38
+126,2023-02-17,Richardland,Premium,0.27
+127,2023-08-17,Richardton,Premium,0.29
+128,2023-03-30,Kevinmouth,Business,0.96
+129,2023-04-04,Shannonchester,Business,0.66
+130,2023-07-16,Trevinoside,Premium,0.15
+131,2023-06-30,Lake Alexandra,Premium,0.22
+132,2023-11-25,Swansonview,Regular,0.58
+133,2024-01-02,Lake Sarah,Business,0.06
+134,2023-08-08,New Williamhaven,Premium,0.06
+135,2024-05-23,Owensfurt,Business,0.48
+136,2024-03-17,North Carl,Business,0.16
+137,2024-02-29,Melissahaven,Business,0.08
+138,2023-07-19,South Kevin,Regular,0.07
+139,2022-08-23,Castroburgh,Regular,0.68
+140,2024-03-28,West Angelastad,Regular,0.4
+141,2024-03-18,Allisonfort,Business,0.25
+142,2024-05-29,Rileyview,Business,0.04
+143,2022-09-18,Holmesland,Regular,0.42
+144,2024-03-15,Jonesburgh,Business,0.57
+145,2022-12-26,Craigside,Premium,0.93
+146,2022-09-11,Port Virginiatown,Regular,0.67
+147,2022-06-30,Cherylmouth,Premium,0.24
+148,2022-12-27,New Sarahaven,Premium,0.13
+149,2023-09-03,Tonymouth,Business,0.3
+150,2023-08-26,New Brettchester,Premium,0.93
+151,2023-05-20,North Adam,Regular,0.01
+152,2022-10-26,Thomasland,Business,1.0
+153,2022-10-16,Moorehaven,Regular,0.07
+154,2024-04-17,Ruizbury,Regular,0.51
+155,2022-09-13,Garzamouth,Regular,0.93
+156,2023-09-09,North Christopherville,Regular,0.88
+157,2022-07-03,Amyside,Premium,0.28
+158,2024-01-19,South Mason,Premium,0.83
+159,2024-02-21,Frazierfort,Business,0.3
+160,2024-02-01,Kimberlytown,Business,0.53
+161,2023-02-07,Garciamouth,Business,0.82
+162,2023-02-27,South James,Premium,0.93
+163,2023-06-25,Port Ernestfurt,Regular,0.94
+164,2023-12-15,Perkinsbury,Regular,0.26
+165,2023-04-03,North Sandra,Regular,0.74
+166,2024-02-28,Roseview,Regular,0.27
+167,2023-12-03,Roybury,Business,0.21
+168,2023-07-19,Lake Marvinchester,Premium,0.2
+169,2023-02-15,Julieside,Business,0.85
+170,2022-10-07,North Michael,Business,0.49
+171,2023-11-19,Lake Wesley,Regular,0.09
+172,2024-05-02,Jonestown,Premium,0.83
+173,2023-06-17,West Alyssachester,Regular,0.0
+174,2024-03-04,East Stephen,Regular,0.64
+175,2023-04-28,Rileyberg,Premium,0.16
+176,2023-02-03,New Tonyachester,Premium,0.55
+177,2022-08-06,Robertohaven,Premium,0.56
+178,2023-03-29,Jonesview,Regular,0.08
+179,2023-02-09,Port Andrew,Business,0.9
+180,2023-03-02,Donnaland,Business,0.04
+181,2024-02-03,Matthewmouth,Premium,0.58
+182,2022-08-09,East Caitlinmouth,Regular,0.43
+183,2023-06-14,North Jeffrey,Regular,0.31
+184,2023-01-18,Kellystad,Regular,0.9
+185,2022-08-30,South Jamesmouth,Regular,0.68
+186,2024-02-06,South Jessicahaven,Business,0.1
+187,2023-09-25,Lake Jeffreyhaven,Business,0.88
+188,2023-05-16,Sheltonside,Premium,0.97
+189,2023-12-20,New Joshuamouth,Business,0.15
+190,2022-12-30,Gregorytown,Regular,0.86
+191,2023-06-24,Jeffreybury,Regular,0.88
+192,2023-01-28,Valenciamouth,Regular,0.18
+193,2024-01-11,Lake Amanda,Premium,0.78
+194,2023-04-25,Salazarfurt,Premium,0.8
+195,2024-04-18,Jeremyton,Business,0.81
+196,2024-01-12,Sancheztown,Premium,0.16
+197,2023-10-07,Port Darylfort,Business,0.11
+198,2024-04-09,Cannonmouth,Regular,0.86
+199,2023-04-06,Williamhaven,Regular,0.2
+200,2022-09-13,Morrisshire,Premium,0.35
+201,2023-11-06,Joseport,Regular,0.22
+202,2023-02-18,Ericafort,Business,0.19
+203,2023-06-16,Amybury,Premium,0.28
+204,2023-09-05,New Dale,Regular,0.97
+205,2023-05-17,Lopezhaven,Premium,0.35
+206,2023-10-03,Fletchermouth,Business,0.4
+207,2022-06-16,Port Ana,Business,0.33
+208,2024-02-23,Robinsonton,Regular,0.12
+209,2023-12-26,Port Russell,Premium,0.18
+210,2023-01-31,Lisamouth,Premium,0.04
+211,2023-05-02,South Donna,Business,0.43
+212,2024-01-22,Amandaland,Business,0.79
+213,2023-05-28,Walterborough,Premium,0.61
+214,2023-04-10,South Troyfort,Business,0.12
+215,2023-05-31,South Allenbury,Business,0.19
+216,2023-06-07,Meganfurt,Regular,0.71
+217,2023-04-22,New Eddie,Regular,0.52
+218,2022-11-10,Gibbsbury,Business,0.69
+219,2023-09-23,Jonesport,Business,0.74
+220,2023-09-16,Patriciaview,Regular,0.36
+221,2022-10-29,Ambertown,Regular,0.95
+222,2022-08-29,Alisonshire,Premium,0.62
+223,2023-10-11,Hooperton,Business,0.85
+224,2023-01-04,Cynthiamouth,Business,0.9
+225,2024-01-28,North Christopher,Business,0.31
+226,2023-06-22,Seanfurt,Premium,0.33
+227,2023-03-26,Owensfort,Business,0.3
+228,2022-06-02,Terrifort,Regular,0.19
+229,2023-05-06,Washingtonbury,Business,0.94
+230,2022-11-07,Port Jason,Business,0.75
+231,2022-09-28,Lake Daniel,Regular,0.62
+232,2023-04-11,Lake Victoriafort,Premium,0.41
+233,2024-03-13,Hickston,Regular,0.3
+234,2023-12-03,New Francesmouth,Regular,0.43
+235,2022-10-06,Barnesfurt,Business,0.61
+236,2022-11-22,Gloverburgh,Premium,0.46
+237,2023-08-16,Espinozaland,Premium,0.68
+238,2023-07-28,New Danielborough,Business,0.47
+239,2023-09-15,Shelbyport,Business,0.17
+240,2022-06-13,New Holly,Regular,0.28
+241,2023-03-28,South Jennifer,Business,0.63
+242,2023-10-28,Bruceview,Premium,0.09
+243,2024-03-30,West Michael,Regular,0.67
+244,2024-04-13,Lake Pamela,Regular,0.81
+245,2023-02-14,South Gary,Regular,0.02
+246,2022-06-15,West Scott,Regular,0.98
+247,2022-09-27,Jennifermouth,Business,0.85
+248,2024-01-30,West Eugenebury,Regular,0.46
+249,2023-01-09,South Dorothymouth,Business,0.58
+250,2024-04-27,Clineport,Business,0.7
+251,2022-12-12,New Brittany,Premium,0.4
+252,2023-02-20,New John,Regular,0.66
+253,2023-12-19,East Jessica,Regular,0.89
+254,2024-03-06,Port Charles,Regular,0.78
+255,2023-12-01,Richardsonmouth,Regular,0.18
+256,2023-08-18,East Shawn,Business,0.52
+257,2022-06-20,Lake Sherry,Regular,0.56
+258,2023-12-24,Riverashire,Regular,0.46
+259,2023-04-08,Maldonadochester,Premium,0.67
+260,2022-07-14,East Benjaminfurt,Business,0.6
+261,2023-08-29,New Michaeltown,Premium,0.61
+262,2022-08-29,Robertsmouth,Business,0.89
+263,2023-12-06,Kathleenshire,Premium,0.83
+264,2023-04-08,Thomasside,Business,0.45
+265,2023-03-09,East Joshua,Regular,0.74
+266,2022-12-26,Myersside,Premium,0.45
+267,2023-03-20,Lake Andrew,Regular,0.84
+268,2022-11-16,Marissaside,Premium,0.77
+269,2023-01-05,New Steve,Business,0.48
+270,2023-07-20,Martinbury,Regular,0.27
+271,2022-07-25,Schwartzbury,Regular,0.71
+272,2024-03-14,New Eric,Regular,0.27
+273,2022-07-10,South Jasminetown,Premium,0.89
+274,2023-04-29,New Stephanie,Regular,0.14
+275,2024-02-18,North Tammy,Regular,0.38
+276,2023-07-18,West Alanberg,Regular,0.71
+277,2023-12-10,Monicastad,Regular,0.41
+278,2023-09-25,West Tracy,Premium,0.54
+279,2023-12-29,Lake Dale,Premium,0.06
+280,2023-11-15,Sandraland,Premium,0.39
+281,2022-06-07,New Johntown,Business,0.95
+282,2022-08-27,Jeffreyshire,Regular,0.86
+283,2022-07-01,Nguyenport,Business,0.38
+284,2022-09-28,Danielside,Regular,0.94
+285,2024-01-21,North Monicaville,Premium,0.75
+286,2023-04-10,North Grant,Premium,0.54
+287,2023-07-26,Patriciatown,Business,0.55
+288,2023-04-28,Jenningsborough,Business,0.9
+289,2024-04-08,South Lisa,Premium,0.22
+290,2023-06-23,South Christian,Premium,0.49
+291,2022-06-10,Mcmillanmouth,Premium,0.34
+292,2023-04-22,South Carlahaven,Business,0.8
+293,2022-10-24,Port Rachelland,Business,0.17
+294,2024-01-02,Frederickberg,Premium,0.92
+295,2023-02-07,Port Johnfort,Business,0.53
+296,2023-09-11,Phillipsmouth,Premium,0.59
+297,2022-11-12,Port Adrian,Business,0.03
+298,2022-09-15,Evanston,Business,0.43
+299,2024-03-01,Taraborough,Premium,0.18
+300,2023-07-27,North Samuel,Premium,0.38
+301,2023-12-27,Lake Natasha,Regular,0.45
+302,2022-08-09,Smithbury,Premium,0.76
+303,2023-11-25,East Kristin,Premium,0.28
+304,2024-05-09,Port Bradley,Premium,0.25
+305,2024-05-17,Stephanieton,Regular,0.47
+306,2023-08-05,Port Susan,Business,0.54
+307,2023-03-01,Lake Gregory,Premium,0.22
+308,2024-03-15,Deleonfurt,Regular,0.78
+309,2023-01-24,North Spencer,Business,0.04
+310,2024-03-14,Cainberg,Regular,0.95
+311,2023-05-12,South Adrianburgh,Regular,0.84
+312,2023-09-16,Donaldside,Business,0.15
+313,2024-03-30,Port Katelyn,Regular,0.47
+314,2023-12-16,Zunigahaven,Regular,0.56
+315,2023-11-18,Deanshire,Regular,0.47
+316,2023-09-12,Ballardburgh,Premium,0.77
+317,2023-01-12,South Steve,Regular,0.61
+318,2024-03-09,Morganview,Business,0.72
+319,2023-12-23,Port Gabrielville,Regular,0.96
+320,2022-07-28,Port Jeremy,Regular,0.58
+321,2024-02-18,Barnesmouth,Premium,0.58
+322,2022-09-22,Julieside,Premium,0.4
+323,2023-09-07,Sylviahaven,Business,0.2
+324,2023-12-04,West Chad,Business,0.69
+325,2022-06-01,Smithborough,Business,0.24
+326,2023-04-04,Cindyfort,Business,0.77
+327,2022-06-11,Stephaniechester,Business,0.6
+328,2023-12-30,Boydtown,Regular,0.8
+329,2024-05-12,Millerfurt,Business,0.78
+330,2023-02-10,Contrerasberg,Premium,0.53
+331,2022-11-19,Herreraburgh,Business,0.37
+332,2023-09-30,Johnberg,Business,0.65
+333,2023-12-22,New Stephen,Regular,0.85
+334,2023-05-19,West Samanthaview,Premium,0.11
+335,2022-12-05,Brentbury,Premium,0.64
+336,2023-10-01,New Andreashire,Premium,0.71
+337,2023-07-23,Davishaven,Premium,0.18
+338,2022-07-24,Jonesview,Business,0.97
+339,2022-12-21,Burtonport,Premium,0.62
+340,2024-01-26,East Tylermouth,Business,0.77
+341,2024-03-28,Hickmanland,Premium,0.44
+342,2023-08-27,Davisbury,Business,0.59
+343,2023-04-01,Santiagoberg,Premium,0.85
+344,2023-04-25,Port Elizabethton,Regular,0.28
+345,2023-09-03,West Sheilabury,Premium,0.24
+346,2023-09-03,Franciscoport,Premium,0.57
+347,2024-04-11,Port Maryview,Business,0.38
+348,2023-12-31,Nicholefort,Regular,0.49
+349,2022-12-25,East Emilyburgh,Premium,0.18
+350,2023-07-29,New Mistyborough,Regular,0.35
+351,2023-08-15,South Pamela,Premium,0.34
+352,2023-10-20,Lake Tyler,Business,0.7
+353,2023-04-03,Wilsonborough,Premium,0.56
+354,2022-11-07,Hawkinsborough,Business,0.95
+355,2024-04-04,Port Jeanettemouth,Regular,0.24
+356,2023-04-30,Lake Christinamouth,Premium,0.49
+357,2022-07-27,Lake April,Regular,0.69
+358,2023-04-07,South Aaronshire,Business,0.71
+359,2023-03-01,Kennethberg,Premium,0.79
+360,2023-07-13,South Williamfort,Regular,0.29
+361,2022-11-13,New Heidi,Premium,0.69
+362,2023-12-18,South Jeffreytown,Premium,0.66
+363,2023-04-27,South Bryan,Premium,0.47
+364,2024-05-06,South Christy,Business,0.34
+365,2023-08-15,New Alanland,Business,0.55
+366,2024-05-29,Berrytown,Premium,0.7
+367,2023-05-27,South Stacy,Premium,0.31
+368,2023-07-05,East Jasonfurt,Regular,0.12
+369,2023-01-09,Lake Tristan,Regular,0.32
+370,2023-08-17,Port Codyberg,Business,0.54
+371,2022-09-29,Glennview,Business,0.19
+372,2022-09-24,Jenniferton,Regular,0.74
+373,2023-07-13,Sherrimouth,Premium,0.72
+374,2022-09-20,West Shirley,Business,0.6
+375,2022-12-16,Lake Theodoreland,Regular,0.83
+376,2024-01-22,New Deborahbury,Premium,0.23
+377,2022-11-06,Danielberg,Regular,0.3
+378,2023-11-04,Port Mandyborough,Business,0.53
+379,2022-06-29,Erinland,Premium,0.05
+380,2024-04-17,North Christine,Regular,0.55
+381,2024-01-21,Orozcotown,Business,0.94
+382,2023-05-22,Kellieshire,Business,0.87
+383,2022-11-01,South Donaldberg,Premium,0.1
+384,2023-05-11,West Biancatown,Regular,0.57
+385,2022-11-28,Port Kirsten,Premium,0.48
+386,2022-10-04,Hannahside,Premium,0.18
+387,2023-05-28,Pamelashire,Regular,0.25
+388,2023-03-09,Brownville,Premium,0.11
+389,2022-11-15,New Lisahaven,Regular,0.4
+390,2024-02-12,Christophershire,Regular,0.58
+391,2023-04-09,Shieldsmouth,Business,0.05
+392,2023-01-05,East Debbieside,Regular,0.81
+393,2022-11-12,Westberg,Premium,0.09
+394,2022-06-17,Ronaldstad,Regular,0.12
+395,2024-02-23,Durhamfurt,Premium,0.61
+396,2024-04-09,Mcdonaldshire,Business,0.23
+397,2024-01-02,East James,Business,0.38
+398,2022-11-28,North Larry,Premium,0.3
+399,2022-08-07,Lake Matthewtown,Business,0.99
+400,2022-10-15,Johnstad,Premium,0.57
+401,2024-02-26,Reneeburgh,Regular,0.61
+402,2023-11-26,Michelletown,Business,0.1
+403,2022-07-18,Richmouth,Regular,0.63
+404,2023-01-01,South Susanland,Premium,0.66
+405,2023-11-07,North Lesliefort,Regular,0.24
+406,2023-09-15,New Paige,Business,0.08
+407,2024-03-27,Jonesmouth,Regular,0.41
+408,2024-03-12,Port Janet,Business,0.59
+409,2023-12-07,South Ashley,Premium,0.03
+410,2022-11-29,Harrisborough,Premium,0.71
+411,2023-04-28,South Donald,Business,0.86
+412,2022-06-01,Lake Jamieberg,Regular,0.69
+413,2023-11-03,Tonyaside,Premium,0.79
+414,2024-02-07,Staffordborough,Business,0.59
+415,2024-04-24,Port Anthony,Regular,0.43
+416,2023-12-18,Loritown,Business,0.22
+417,2024-03-08,Port Rachel,Regular,0.91
+418,2024-02-08,Maryburgh,Regular,0.07
+419,2023-02-21,Sabrinamouth,Regular,0.79
+420,2024-05-21,East Roger,Business,0.75
+421,2023-06-03,Ashleyland,Business,0.92
+422,2022-10-26,Susanburgh,Premium,0.12
+423,2022-08-24,New James,Business,0.3
+424,2023-05-20,East Jessica,Premium,0.94
+425,2023-06-26,Williamport,Business,0.54
+426,2023-10-08,Lake John,Premium,0.08
+427,2023-03-08,Wilkinsonbury,Regular,0.89
+428,2022-10-12,North Monica,Business,0.32
+429,2023-04-25,Lake Laura,Premium,0.03
+430,2023-06-14,West Kellyport,Regular,0.96
+431,2023-03-01,South Gary,Business,0.59
+432,2023-09-26,West Williamchester,Regular,1.0
+433,2022-08-06,Tinaborough,Business,0.82
+434,2024-01-08,Catherinechester,Business,0.04
+435,2023-04-15,Solomonmouth,Regular,0.47
+436,2024-03-25,Smithland,Business,0.44
+437,2023-06-02,Rachelburgh,Premium,0.18
+438,2023-01-04,Mitchellfort,Business,0.44
+439,2024-02-11,Sanchezburgh,Premium,0.97
+440,2023-06-04,Johnfurt,Premium,0.35
+441,2024-05-26,East Justin,Premium,0.32
+442,2024-03-31,South Gary,Regular,0.86
+443,2023-05-02,Lake Alexis,Premium,0.41
+444,2024-05-26,Arnoldchester,Premium,0.29
+445,2023-01-10,South Alexander,Premium,0.81
+446,2024-01-08,Garrisonton,Business,0.04
+447,2023-06-27,Jacobschester,Regular,0.31
+448,2023-12-17,Vanessabury,Premium,0.12
+449,2023-06-13,North Brittanychester,Premium,0.86
+450,2022-08-10,Lake Alexandria,Regular,0.66
+451,2022-12-11,Robertfurt,Business,0.46
+452,2023-01-03,Bryanland,Regular,0.19
+453,2023-09-19,West Stephenton,Premium,0.62
+454,2022-11-10,Wandamouth,Premium,0.63
+455,2023-09-20,Francishaven,Regular,0.2
+456,2023-10-14,South Coreyshire,Business,0.13
+457,2023-01-01,Stacystad,Premium,0.44
+458,2023-06-07,Garciamouth,Business,0.48
+459,2022-08-21,Lake Joshuahaven,Regular,0.97
+460,2023-12-03,Melissahaven,Business,0.8
+461,2022-10-28,Port Amberborough,Business,0.16
+462,2023-11-02,Port Joshuaborough,Business,0.01
+463,2022-09-05,West Jessicashire,Premium,0.09
+464,2022-07-24,South Kimberlyville,Regular,0.46
+465,2023-07-10,Kimfort,Regular,0.65
+466,2022-06-29,Kimview,Regular,0.5
+467,2023-02-09,Brownton,Business,0.29
+468,2022-07-22,Laurachester,Business,0.27
+469,2024-02-16,Laurenshire,Premium,0.98
+470,2023-12-23,East Paulstad,Regular,0.46
+471,2024-05-08,New Marybury,Regular,0.38
+472,2022-11-03,Lake Jesseborough,Business,0.51
+473,2023-10-09,Casefurt,Regular,0.86
+474,2022-07-11,South Melaniechester,Premium,0.77
+475,2024-05-03,Smithmouth,Premium,0.34
+476,2023-09-05,Lake Mia,Business,0.27
+477,2023-07-23,East Deborahstad,Regular,0.28
+478,2022-11-25,Lake Sharonport,Premium,0.84
+479,2022-08-20,New Johnnybury,Business,1.0
+480,2022-10-23,Powellmouth,Premium,0.87
+481,2023-04-16,East Justinbury,Premium,0.54
+482,2023-02-20,South Rebeccahaven,Premium,0.33
+483,2023-01-29,North Jessicaborough,Business,0.38
+484,2024-04-11,North Aaron,Premium,0.87
+485,2022-09-27,Lake Kirkhaven,Business,0.24
+486,2023-07-17,Youngfort,Premium,0.23
+487,2024-03-04,Port Molly,Premium,0.04
+488,2024-02-06,Howardchester,Business,0.47
+489,2023-03-16,Williamsstad,Premium,0.39
+490,2023-09-16,Port Greg,Business,0.79
+491,2022-11-09,Jensenfurt,Business,0.98
+492,2023-07-05,Roystad,Premium,0.96
+493,2023-10-22,South Shannonberg,Regular,0.5
+494,2024-02-22,South Jennifer,Business,0.33
+495,2023-05-29,Tonifort,Regular,0.87
+496,2022-11-14,North Eric,Premium,0.1
+497,2022-08-14,Jennaberg,Premium,0.02
+498,2023-09-22,West Andreashire,Regular,0.41
+499,2024-01-16,Brittneyberg,Business,0.97
+500,2022-06-18,Tylershire,Regular,0.47
